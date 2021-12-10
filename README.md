@@ -3,7 +3,6 @@
 ## I'm a Phd Student [@CNRS][cnrs] & [@ENS][ens]
 
 - 🚀 Working on  a paper on sentiment analysis
-- 🌱 I’m currently learning everything
 - 👨🏼‍💻 👩🏼‍💻 I’m looking to collaborate with more software developpers & data scientists & researchers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love late Fridays cheese 🧀 and wine 🍷
